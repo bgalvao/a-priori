@@ -1,1 +1,0 @@
-This is a university project coded by me in Java for Hadoop's MapReduce. The goal is to extract association rules from a market-basket dataset using the A-Priori counting strategy. Implementation details are all in the .pdf file.
